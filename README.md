@@ -37,4 +37,4 @@ You can edit your profile. Delete card or add new one. Like button will work asw
 - Javascript
 - React
 
-## [Check out the project on GitHubPages](https://freddymutant.github.io/mesto/)
+## [Check out the project on GitHubPages](https://freddymutant.github.io/react-mesto-auth/)
